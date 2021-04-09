@@ -1,1 +1,1 @@
-Simple java bank Acc managr
+Simple java bank Acc manager with arraylist no DB
